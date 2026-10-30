@@ -94809,7 +94809,7 @@ return A.I(null,r)}})
 return A.J($async$yq,r)},
 J(a){var s,r=A.r(t.LH,t.nd)
 for(s=0;s<6;++s)r.m(0,B.po[s],B.DU)
-return new A.Cq(B.HP,"School Festival Event Management",A.x7(null,null,new A.D6(r),B.vC,!0),!1,null)}}
+return new A.Cq(B.HP,"Kala Falam",A.x7(null,null,new A.D6(r),B.vC,!0),!1,null)}}
 A.aAb.prototype={
 $1(a){},
 $S:5}
