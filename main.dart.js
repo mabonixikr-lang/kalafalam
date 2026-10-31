@@ -94940,7 +94940,7 @@ this.a.e.push(A.am(["sender","bot","message",this.b],s,s))},
 $S:0}
 A.asm.prototype={
 $0(){var s=t.N
-this.a.e.push(A.am(["sender","bot","message","\u0d15\u0d4d\u0d37\u0d2e\u0d3f\u0d15\u0d4d\u0d15\u0d23\u0d02, \u0d15\u0d23\u0d15\u0d4d\u0d37\u0d7b \u0d24\u0d15\u0d30\u0d3e\u0d31\u0d3f\u0d32\u0d23\u0d4d."],s,s))},
+this.a.e.push(A.am(["sender","bot","message","\u0d15\u0d4d\u0d37\u0d2e\u0d3f\u0d15\u0d4d\u0d15\u0d23\u0d02, \u0d28\u0d46\u0d31\u0d4d\u0d31\u0d35\u0d7c\u0d15\u0d4d\u0d15\u0d4d \u0d24\u0d3f\u0d30\u0d15\u0d4d\u0d15\u0d3f\u0d32\u0d3e\u0d23\u0d4d"],s,s))},
 $S:0}
 A.asn.prototype={
 $2(a,b){var s=null,r=this.a.e[b],q=r.h(0,"sender")==="user",p=q?B.mM:B.ep,o=q?B.nQ:B.jz,n=A.dH(8),m=r.h(0,"message")
